@@ -1,26 +1,21 @@
 # Kodluyoruz Ilk Repo
---------------------
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Reat-Native eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 ![Github repo oluşturma ekranı](/Home/Pictures/Screenshot from 2023-04-03 16-06-10.png)
 
 ## Installation
-------------------
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-> git clone https://github.com/baharbubbles/kodluyoruzilkrepo.git
+' git clone https://github.com/baharbubbles/kodluyoruzilkrepo.git '
 
 ## Usage 
----------
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-> cd kodluyoruzilkrepo
-> code .
+' cd kodluyoruzilkrepo '
+' code . '
 
 ## Contributing
----------------
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-----------
 [MIT](https://choosealicense.com/licenses/mit/)
 
