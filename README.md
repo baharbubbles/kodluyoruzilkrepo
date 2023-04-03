@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Reat-Native eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
-![Github repo oluşturma ekranı](/Home/Pictures/Screenshot from 2023-04-03 16-06-10.png)
+![Github repo oluşturma ekranı](/home/pictures/readme.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
